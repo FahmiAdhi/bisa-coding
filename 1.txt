@@ -1,1 +1,3 @@
 membuat repository pertama kali
+
+tambah file 2
